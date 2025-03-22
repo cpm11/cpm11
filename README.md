@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @cpm11
-- 👀 I'm a Data Science enthusiast
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 👋 Hi, I’m Chinmay
+- 👀 I'm a Data Scientist working in the world of data 
 - 💞️ I’m looking to collaborate on Machine learning ,AI, Data Science Projects and look forward to meet and learn from fellow Data Geeks. 
 
 <!---
